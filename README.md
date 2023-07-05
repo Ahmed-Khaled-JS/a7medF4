@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a7medF4
 - 👀 I’m interested in software
-- 🌱 I’m currently learning backend
+- 🌱 web developer, problem solver 
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me https://www.linkedin.com/in/a7medf4
 
